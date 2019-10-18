@@ -8,3 +8,5 @@ Login Details
 **Username:** admin
 
 **Password:** admin
+
+![Collector](https://www.xtrendence.com/portfolio/projects/collector/images/1.jpg)
