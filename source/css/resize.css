@@ -1,0 +1,76 @@
+@media screen and (max-width:1050px) {
+	.catalogue-item-pane, .add-item-pane, .collection-item-pane {
+		width:calc(33.3333% - 20px);
+	}
+}
+@media screen and (max-width:850px) {
+	.catalogue-item-pane, .add-item-pane, .collection-item-pane {
+		width:calc(50% - 20px);
+	}
+}
+@media screen and (max-width:650px) {
+	.add-item-icon-wrapper {
+		height:292px;
+	}
+	.collection-item-image-wrapper {
+		height:300px;
+	}
+	.collection-item-image {
+		height:300px;
+		width:300px;
+		left:calc(50% - 150px);
+	}
+}
+@media screen and (max-width:430px) {
+	.add-item-icon-wrapper {
+		height:242px;
+	}
+	.collection-item-image-wrapper {
+		height:250px;
+	}
+	.collection-item-image {
+		height:250px;
+		width:250px;
+		left:calc(50% - 125px);
+	}
+}
+@media screen and (max-width:400px) {
+	.catalogue-item-pane, .add-item-pane, .collection-item-pane {
+		width:calc(100% - 20px);
+	}
+	.add-item-icon-wrapper {
+		height:342px;
+	}
+	.collection-item-image-wrapper, .catalogue-item-image-wrapper {
+		height:350px;
+	}
+	.collection-item-image, .catalogue-item-image {
+		height:350px;
+		width:350px;
+		left:calc(50% - 175px);
+	}
+}
+@media screen and (max-height:650px) {
+	.user-prompt-wrapper, .help-page-wrapper, .settings-page-wrapper {
+		height:100%;
+		top:0;
+		border-radius:0;
+	}
+	.user-prompt-placeholder-wrapper, .user-prompt-change-wrapper, .user-prompt-catalogue-image-wrapper {
+		width:290px;
+		height:290px;
+	}
+}
+@media screen and (max-height:650px) and (max-width:650px) {
+	.user-prompt-wrapper, .help-page-wrapper, .settings-page-wrapper {
+		height:100%;
+		width:100%;
+		top:0;
+		left:0;
+		border-radius:0;
+	}
+	.user-prompt-placeholder-wrapper, .user-prompt-change-wrapper, .user-prompt-catalogue-image-wrapper {
+		width:290px;
+		height:290px;
+	}
+}
