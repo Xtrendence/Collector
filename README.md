@@ -9,4 +9,4 @@ Login Details
 
 **Password:** admin
 
-![Collector](https://www.xtrendence.com/portfolio/projects/collector/images/1.jpg)
+![Collector](https://i.imgur.com/HLfyCy4.jpg)
